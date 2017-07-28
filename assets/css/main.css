@@ -3042,12 +3042,12 @@
 		/* List */
 
 			ul.actions {
-				margin: 0 0 2.25em 0;
+				margin: 0 0 2em 0;
 			}
 
 				ul.actions li {
 					display: block;
-					padding: 1.125em 0 0 0;
+					padding: 1em 0 0 0;
 					text-align: center;
 					width: 100%;
 				}
@@ -3057,8 +3057,8 @@
 					}
 
 					ul.actions li > * {
-						width: 100%;
 						margin: 0 !important;
+						width: 100%;
 					}
 
 						ul.actions li > *.icon:before {
@@ -3066,7 +3066,7 @@
 						}
 
 				ul.actions.small li {
-					padding: 0.5625em 0 0 0;
+					padding: 0.5em 0 0 0;
 				}
 
 					ul.actions.small li:first-child {
